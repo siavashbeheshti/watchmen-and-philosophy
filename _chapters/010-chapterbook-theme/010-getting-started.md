@@ -1,7 +1,7 @@
 ---
-title: Getting started
+title: اخلاقیات با وجود قدرت مطلق
 slug: getting-started
-abstract: A guide to quickly setting up your site with this theme.
+abstract: کریستوفر روبیشاو
 ---
 
 This is an example chapter page.
