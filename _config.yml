@@ -1,3 +1,5 @@
+lang: fa
+direction: rtl
 remote_theme: jasongrimes/jekyll-chapterbook
 
 title: Jekyll Chapterbook

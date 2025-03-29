@@ -1,0 +1,35 @@
+body {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .book .book-body .body-inner {
+    margin-left: 0;
+    margin-right: 300px;
+  }
+  
+  .book .book-summary {
+    left: auto;
+    right: 0;
+    border-left: none;
+    border-right: 1px solid #e0e0e0;
+  }
+  
+  .book .navigation {
+    text-align: right;
+  }
+  
+  .book .chapter h1,
+  .book .chapter h2,
+  .book .chapter h3,
+  .book .chapter h4,
+  .book .chapter h5 {
+    text-align: right;
+  }
+
+.fa-angle-right {
+  transform: scaleX(-1);
+}
+.fa-angle-left {
+  transform: scaleX(-1);
+}
