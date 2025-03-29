@@ -11,7 +11,11 @@ body {
     margin-left: 0;
     margin-right: 300px;
   }
-  
+
+  .book {
+    text-align: right;
+  }
+
   .book .book-summary {
     left: auto;
     right: 0;
