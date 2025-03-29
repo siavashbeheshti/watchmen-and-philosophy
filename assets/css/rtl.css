@@ -1,7 +1,7 @@
 body {
     direction: rtl;
     text-align: right;
-    font-family: 'Vazirmatn', sans-serif;
+    font-family: "Vazirmatn", sans-serif;
   }
   
   .book .book-body .body-inner {
@@ -26,6 +26,7 @@ body {
   .book .chapter h4,
   .book .chapter h5 {
     text-align: right;
+    font-family: "Vazirmatn", sans-serif;
   }
 
 .fa-angle-right {
